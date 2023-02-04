@@ -40,7 +40,7 @@ export const LayoutNavigation = () => {
             <NavLink to="/browse">Browse</NavLink>
           </Navbar.Item>
           <Navbar.Item>
-            <NavLink to="/brands">Brands</NavLink>
+            <NavLink to="/baseSet">2022 Topps Series 1 Baseball Base Set</NavLink>
           </Navbar.Item>
           <Navbar.Item>
             <NavLink to="/help">Help</NavLink>

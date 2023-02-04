@@ -14,12 +14,13 @@ import { About } from "./pages/About";
 import { Home } from "./pages/Home";
 import Faq from "./components/Faq";
 import Contact from "./components/Contact";
-import Brands, { brandsLoader } from "./pages/Brands";
+import BaseSet, { BaseSetLoader } from "./pages/BaseSet";
+import BaseSetDetails, {BaseSetDetailsLoader} from "./pages/BaseSetDetails";
 
 //layouts
 import { LayoutNavigation } from "./components/LayoutNavigation";
-import HelpLayout from "./components/HelpLayout"; 
-import BrandsLayout from "./components/BrandsLayout"; 
+import HelpLayout from "./components/HelpLayout";
+import BaseSetLayout from "./components/BaseSetLayout";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -29,15 +30,28 @@ const router = createBrowserRouter(
       <Route path="browse" element={<Browse />} />
 
       <Route path="help" element={<HelpLayout />}>
-        <Route path="faq" element={<Faq />}/>
+        <Route path="faq" element={<Faq />} />
         <Route path="contact" element={<Contact />} />
       </Route>
 
-      <Route path="brands" element={<BrandsLayout />}>
-        <Route index element={<Brands />} loader={brandsLoader} />
+      <Route path="baseset" element={<BaseSetLayout />} >
+        <Route 
+        index 
+        element={<BaseSet />} 
+        loader={BaseSetLoader} 
+        />
+        <Route path=":id" element={<BaseSetDetails />}
+        />
       </Route>
 
+      {/* <Route 
+        path="id" 
+        element={ <BaseSet />}
+        loader={BaseSetLoader}
+      /> */}
+
       <Route path="*" element={<NoMatch />} />
+
     </Route>
   )
 );
