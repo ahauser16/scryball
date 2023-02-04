@@ -9,7 +9,7 @@ const ListContainer = styled.div`
   background-color: cyan;
 `;
 
-export const Dashboard = () => {
+export const Browse = () => {
   return (
     <ListContainer>
       <RegularList

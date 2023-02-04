@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
-import { Outlet, Link } from "react-router-dom";
+import { Outlet, NavLink } from "react-router-dom";
 import styled, { createGlobalStyle } from "styled-components";
+
 export const LayoutNavigation = () => {
   const [openDrawer, toggleDrawer] = useState(false);
   const drawerRef = useRef(null);
@@ -20,38 +21,42 @@ export const LayoutNavigation = () => {
   }, []);
 
   return (
-    <>
-      <Styles.Wrapper>
-        <CSSReset />
-        <Navbar.Wrapper>
-          <Navbar.Logo>ScryBall</Navbar.Logo>
-          <HamburgerButton.Wrapper onClick={() => toggleDrawer(true)}>
-            <HamburgerButton.Lines />
-          </HamburgerButton.Wrapper>
-          <Navbar.Items ref={drawerRef} openDrawer={openDrawer}>
-            <Navbar.Item>
-              <Link to="/">Home</Link>
-            </Navbar.Item>
-            <Navbar.Item>
-              <Link to="/about">About</Link>
-            </Navbar.Item>
-            <Navbar.Item>
-              <Link to="/dashboard">Dashboard</Link>
-            </Navbar.Item>
-            <Navbar.Item>
-              <Link to="/nothing-here">Nothing Here</Link>
-            </Navbar.Item>
-          </Navbar.Items>
-        </Navbar.Wrapper>
-        <hr />
+    <Styles.Wrapper>
+      <Navbar.Wrapper>
+        <Navbar.Logo>ScryBall</Navbar.Logo>
+
+        <HamburgerButton.Wrapper onClick={() => toggleDrawer(true)}>
+          <HamburgerButton.Lines />
+        </HamburgerButton.Wrapper>
+
+        <Navbar.Items ref={drawerRef} openDrawer={openDrawer}>
+          <Navbar.Item>
+            <NavLink to="/">Home</NavLink>
+          </Navbar.Item>
+          <Navbar.Item>
+            <NavLink to="/about">About</NavLink>
+          </Navbar.Item>
+          <Navbar.Item>
+            <NavLink to="/browse">Browse</NavLink>
+          </Navbar.Item>
+          <Navbar.Item>
+            <NavLink to="/brands">Brands</NavLink>
+          </Navbar.Item>
+          <Navbar.Item>
+            <NavLink to="/help">Help</NavLink>
+          </Navbar.Item>
+        </Navbar.Items>
+      </Navbar.Wrapper>
+
+      <main>
         <Outlet />
-      </Styles.Wrapper>
-    </>
+      </main>
+    </Styles.Wrapper>
   );
 };
 
 const Styles = {
-  Wrapper: styled.main`
+  Wrapper: styled.header`
     /* display: flex;
       background-color: #eeeeee;
       height: 100vh; */
