@@ -1,0 +1,1660 @@
+{
+    "mlbColors": [
+        {
+            "teamName": "Arizona Diamondbacks",
+            "tableColors": {
+                "tableHeaderFooter": {
+                    "backgroundColor": {
+                        "colorName": "Sedona Red",
+                        "rgb": "(167, 25, 48)",
+                        "hex": "#A71930",
+                        "hsl": "(350, 74, 38)"
+                    },
+                    "color": {
+                        "colorName": "Vivid Burgundy",
+                        "rgb": "(245, 188, 198)",
+                        "hex": "#f5bcc6",
+                        "hsl": "(350, 74, 85)",
+                        "wcagPartner": "Sedona Red",
+                        "wcagPartnerContrastRatio": "4.5:1"
+                    }
+                },
+                "tableRow": {
+                    "backgroundColor": "rgb(227, 212, 173)",
+                    "color": "rgb(0, 0, 0)"
+                },
+                "tableRowAlt": {
+                    "backgroundColor": "rgb(255, 255, 255)",
+                    "color": "rgb(0, 0, 0)"
+                }
+            },
+            "officialColors": [
+                {
+                    "colorName": "Sedona Red",
+                    "rgb": "(167, 25, 48)",
+                    "hex": "#A71930",
+                    "hsl": "(350, 74, 38)"
+                },
+                {
+                    "colorName": "Sonoran Sand",
+                    "rgb": "(227, 212, 173)",
+                    "hex": "#E3D4AD",
+                    "hsl": "(42, 23, 89)"
+                },
+                {
+                    "colorName": "Black",
+                    "rgb": "(0, 0, 0)",
+                    "hex": "#000000",
+                    "hsl": "(0, 0, 0)"
+                },
+                {
+                    "colorName": "Teal",
+                    "rgb": "(48, 206, 216)",
+                    "hex": "#30CED8",
+                    "hsl": "(183, 77, 84)"
+                },
+                {
+                    "colorName": "White",
+                    "rgb": "(255, 255, 255)",
+                    "hex": "#FFFFFF",
+                    "hsl": "(0, 0, 100)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1998to2006": [
+                        {
+                            "colorName": "Purple",
+                            "rgb": "(95, 37, 159)",
+                            "hex": "#5F259F",
+                            "hsl": "(269, 62, 38)"
+                        },
+                        {
+                            "colorName": "Turquoise",
+                            "rgb": "(0, 95, 97)",
+                            "hex": "#005F61",
+                            "hsl": "(181, 100, 19)"
+                        },
+                        {
+                            "colorName": "Copper",
+                            "rgb": "(139, 99, 75)",
+                            "hex": "#8B634B",
+                            "hsl": "(23, 30, 42)"
+                        },
+                        {
+                            "colorName": "Black",
+                            "rgb": "(39, 37, 31)",
+                            "hex": "#27251F",
+                            "hsl": "(45, 11, 14)"
+                        },
+                        {
+                            "colorName": "Off-White",
+                            "rgb": "(242, 233, 234)",
+                            "hex": "#F2E9EA",
+                            "hsl": "(353, 26, 93)"
+                        }
+                    ]
+                }
+            ],
+            "logo": "https://example.com/diamondbacks_logo.png",
+            "logoDescription": "The Arizona Diamondbacks logo has Sedona red, Sonoran sand, black, teal, and white colors and a stylized letter A object. On its left side, the letter features diamond shapes similar to those found on a snake’s back, while the crossbar is replaced by a snake’s tongue. The Arizona Diamondbacks logo meaning symbolizes the initial of the state of Arizona and pays tribute to the western diamondback rattlesnake, used as an inspiration for the team name.",
+            "logoFont": "MLB Diamondbacks",
+            "playerNumberScheme": [
+                {
+                    "textColor": "true",
+                    "colorName": "Dark Jungle Green",
+                    "rgb": "(30,30,30)",
+                    "hex": "#1e1e1e",
+                    "hsl": "(0, 0%, 12%)"
+                },
+                {
+                    "layerNumber": "1",
+                    "colorName": "HoneyDew",
+                    "rgb": "(243, 250, 234)",
+                    "hex": "#f3faea",
+                    "hsl": "(86.3, 61.5, 94.9)"
+                },
+                {
+                    "layerNumber": "2",
+                    "colorName": "AntiqueWhite",
+                    "rgb": "(244, 223, 206)",
+                    "hex": "#f4dfce",
+                    "hsl": "(26.8, 63.3, 88.2)"
+                },
+                {
+                    "layerNumber": "3",
+                    "colorName": "DarkSalmon",
+                    "rgb": "(212, 156, 143)",
+                    "hex": "#d49c8f",
+                    "hsl": "(11.3, 44.5, 69.6)"
+                },
+                {
+                    "layerNumber": "4",
+                    "colorName": "Brown",
+                    "rgb": "rgb(135, 27, 50)",
+                    "hex": "#871b32",
+                    "hsl": "hsl(347.2, 66.7, 31.8)"
+                },
+                {
+                    "layerNumber": "5",
+                    "colorName": "SedonaRed",
+                    "rgb": "rgb(167, 25, 48)",
+                    "hex": "#A71930",
+                    "hsl": "hsl(350, 74%, 38%)"
+                }
+            ]
+        },
+        {
+            "teamName": "Atlanta Braves",
+            "officialColors": [
+                {
+                    "colorName": "Scarlet",
+                    "rgb": "(206, 17, 65)",
+                    "hex": "#CE1141",
+                    "hsl": "(347, 85, 44)"
+                },
+                {
+                    "colorName": "Navy",
+                    "rgb": "(19, 39, 79)",
+                    "hex": "#13274F",
+                    "hsl": "(220, 61, 19)"
+                },
+                {
+                    "colorName": "Gold",
+                    "rgb": "(234, 170, 0)",
+                    "hex": "#EAAA00",
+                    "hsl": "(46, 100, 46)"
+                },
+                {
+                    "colorName": "White",
+                    "rgb": "(255, 255, 255)",
+                    "hex": "#FFFFFF",
+                    "hsl": "(0, 0, 100)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1990to2017": [
+                        {
+                            "colorName": "Scarlet",
+                            "rgb": "(206, 17, 65)",
+                            "hex": "#CE1141",
+                            "hsl": "(347, 85, 44)"
+                        },
+                        {
+                            "colorName": "Navy",
+                            "rgb": "(0, 40, 85)",
+                            "hex": "#002855",
+                            "hsl": "(214, 100, 17)"
+                        },
+                        {
+                            "colorName": "Gold",
+                            "rgb": "(234, 170, 0)",
+                            "hex": "#EAAA00",
+                            "hsl": "(46, 100, 46)"
+                        }
+                    ]
+                },
+                {
+                    "1972to1984": [
+                        {
+                            "colorName": "Red",
+                            "rgb": "(213, 0, 50)",
+                            "hex": "#D50032",
+                            "hsl": "(347, 100, 42)"
+                        },
+                        {
+                            "colorName": "Blue",
+                            "rgb": "(0, 51, 160)",
+                            "hex": "#0033A0",
+                            "hsl": "(221, 100, 31)"
+                        }
+                    ]
+                }
+            ],
+            "logo": "https://example.com/braves_logo.png",
+            "logoDescription": "The Atlanta Braves logo has scarlet, navy, yellow, and white colors and a scarlet-colored tomahawk object with yellow bonding and a navy outline. Above it stands the inscription “Braves”, in cursive letters with a scarlet fill and a navy outline. The Atlanta Braves logo meaning symbolizes the team name and the traditional native-american weapon which has now become the team symbol.",
+            "logoFont": "LHF Ballpark Script"
+        },
+        {
+            "teamName": "Baltimore Orioles",
+            "officialColors": [
+                {
+                    "colorName": "Orange",
+                    "rgb": "(223, 70, 1)",
+                    "hex": "#DF4601",
+                    "hsl": "(18, 99, 44)"
+                },
+                {
+                    "colorName": "Black",
+                    "rgb": "(39, 37, 31)",
+                    "hex": "#27251F",
+                    "hsl": "(40, 11, 14)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1999to2008": [
+                        {
+                            "colorName": "Orange",
+                            "rgb": "(252, 76, 2)",
+                            "hex": "#FC4C02",
+                            "hsl": "(18, 99, 50)"
+                        },
+                        {
+                            "colorName": "Black",
+                            "rgb": "(39, 37, 31)",
+                            "hex": "#27251F",
+                            "hsl": "(40, 11, 14)"
+                        },
+                        {
+                            "colorName": "Green",
+                            "rgb": "(0, 103, 71)",
+                            "hex": "#006747",
+                            "hsl": "(162, 100, 20)"
+                        },
+                        {
+                            "colorName": "Yellow",
+                            "rgb": "(251, 216, 114)",
+                            "hex": "#FBD872",
+                            "hsl": "(46, 96, 72)"
+                        }
+                    ]
+                }
+            ],
+            "logo": "https://example.com/orioles_logo.png",
+            "logoDescription": "The Baltimore Orioles logo has orange and black colors and a hat and an oriole bird head objects. The Baltimore Orioles Logo meaning symbolizes the Baltimore Oriole which is the official state bird of Maryland.",
+            "logoFont": "MLB Baltimore Orioles"
+        },
+        {
+            "teamName": "Boston Red Sox",
+            "officialColors": [
+                {
+                    "colorName": "Red",
+                    "rgb": "(189, 48, 57)",
+                    "hex": "#BD3039",
+                    "hsl": "(357, 59, 46)"
+                },
+                {
+                    "colorName": "Blue",
+                    "rgb": "(12, 35, 64)",
+                    "hex": "#0C2340",
+                    "hsl": "(214, 68, 15)"
+                },
+                {
+                    "colorName": "White",
+                    "rgb": "(255, 255, 255)",
+                    "hex": "#FFFFFF",
+                    "hsl": "(0, 0, 100)"
+                }
+            ],
+            "throwbackColors": null,
+            "logo": "",
+            "logoDescription": "The Boston Red Sox logo has red and white colors and a pair of red socks. The socks have white heels and toes. The Boston Red Sox logo meaning symbolizes the famous team name.",
+            "logoFont": "Bosox font"
+        },
+        {
+            "teamName": "Chicago Cubs",
+            "officialColors": [
+                {
+                    "colorName": "Blue",
+                    "rgb": "(14, 51, 134)",
+                    "hex": "#0E3386",
+                    "hsl": "(224, 81, 29)"
+                },
+                {
+                    "colorName": "Red",
+                    "rgb": "(204, 52, 51)",
+                    "hex": "#CC3433",
+                    "hsl": "(0, 60, 50)"
+                }
+            ],
+            "throwbackColors": null,
+            "logo": "",
+            "logoDescription": "The Chicago Cubs logo has blue and red colors and letters U, B, and S written inside a large letter C, all inside a blue circular object. The Chicago Cubs logo meaning symbolizes the nickname of the team.",
+            "logoFont": "MLB Chicago Cubs"
+        },
+        {
+            "teamName": "Chicago White Sox",
+            "officialColors": [
+                {
+                    "colorName": "Black",
+                    "rgb": "(39, 37, 31)",
+                    "hex": "#27251F",
+                    "hsl": "(32, 12, 15)"
+                },
+                {
+                    "colorName": "Silver",
+                    "rgb": "(196, 206, 212)",
+                    "hex": "#C4CED4",
+                    "hsl": "(208, 18, 80)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1976to1981": [
+                        {
+                            "colorName": "Black",
+                            "rgb": "(39, 37, 31)",
+                            "hex": "#27251F",
+                            "hsl": "(32, 12, 15)"
+                        },
+                        {
+                            "colorName": "Silver",
+                            "rgb": "(196, 206, 212)",
+                            "hex": "#C4CED4",
+                            "hsl": "(208, 18, 80)"
+                        }
+                    ]
+                }
+            ],
+            "logo": "",
+            "logoDescription": "The Chicago White Sox logo has black and silver colors and a monogram object consisting of letters S, O, and X. The writing is positioned diagonally, top left to bottom right. The Chicago White Sox logo meaning symbolizes the team name (Sox).",
+            "logoFont": "MLB Chicago White Sox font"
+        },
+        {
+            "teamName": "Cincinnati Reds",
+            "officialColors": [
+                {
+                    "colorName": "Red",
+                    "rgb": "(198, 1, 31)",
+                    "hex": "#C6011F",
+                    "hsl": "(353, 99, 39)"
+                },
+                {
+                    "colorName": "Black",
+                    "rgb": "(0, 0, 0)",
+                    "hex": "#000000",
+                    "hsl": "(0, 0, 0)"
+                },
+                {
+                    "colorName": "White",
+                    "rgb": "(255, 255, 255)",
+                    "hex": "#FFFFFF",
+                    "hsl": "(0, 0, 100)"
+                }
+            ],
+            "throwbackColors": null,
+            "logo": "",
+            "logoDescription": "The Cincinnati Reds logo has red, black, and white colors and a stylized wishbone C object that has the team name inside. The Cincinnati Reds logo meaning symbolizes the Cincinnati initial.",
+            "logoFont": "MLB Reds"
+        },
+        {
+            "teamName": "Cleveland Guardians",
+            "officialColors": [
+                {
+                    "colorName": "Navy Blue",
+                    "rgb": "(0, 56, 93)",
+                    "hex": "#00385D",
+                    "hsl": "(203, 100, 18)"
+                },
+                {
+                    "colorName": "Red",
+                    "rgb": "(229, 0, 34)",
+                    "hex": "#E50022",
+                    "hsl": "(352, 100, 45)"
+                },
+                {
+                    "colorName": "White",
+                    "rgb": "(255, 255, 255)",
+                    "hex": "#FFFFFF",
+                    "hsl": "(0, 0, 100)"
+                }
+            ],
+            "throwbackColors": null,
+            "logo": "",
+            "logoDescription": "The Cleveland Guardians logo has navy blue, red, and white colors and a winged baseball object with a capital letter G on its side. The Cleveland Guardians logo meaning symbolizes the team’s initial as well as the sport of baseball.",
+            "logoFont": "custom Cleveland Guardians typeface"
+        },
+        {
+            "teamName": "Colorado Rockies",
+            "officialColors": [
+                {
+                    "colorName": "Rockies Purple",
+                    "rgb": "(51, 51, 102)",
+                    "hex": "#333366",
+                    "hsl": "(240, 33%, 30%)"
+                },
+                {
+                    "colorName": "Silver",
+                    "rgb": "(196, 206, 212)",
+                    "hex": "#C4CED4",
+                    "hsl": "(203, 16%, 80%)"
+                },
+                {
+                    "colorName": "Midnight Black",
+                    "rgb": "(35, 31, 32)",
+                    "hex": "#131413",
+                    "hsl": "(120, 3%, 8%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1993to2016": [
+                        {
+                            "colorName": "Purple",
+                            "rgb": "(36, 19, 95)",
+                            "hex": "#24135F",
+                            "hsl": "(253, 67%, 22%)"
+                        },
+                        {
+                            "colorName": "Silver",
+                            "rgb": "(138, 141, 143)",
+                            "hex": "#8A8D8F",
+                            "hsl": "(204, 2%, 55%)"
+                        },
+                        {
+                            "colorName": "Black",
+                            "rgb": "(39, 37, 31)",
+                            "hex": "#27251F",
+                            "hsl": "(45, 11%, 14%)"
+                        }
+                    ]
+                }
+            ],
+            "logo": "",
+            "logoDescription": "The Colorado Rockies logo has silver and black colors and letters C and R overlapping each other. The Colorado Rockies logo meaning symbolizes the club’s initials.",
+            "logoFont": "custom MLB Colorado Rockies font (similar to the Bembo Bold font)"
+        },
+        {
+            "teamName": "Detroit Tigers",
+            "officialColors": [
+                {
+                    "colorName": "Navy",
+                    "rgb": "(12, 35, 64)",
+                    "hex": "#0C2340",
+                    "hsl": "(213, 68%, 15%)"
+                },
+                {
+                    "colorName": "Orange",
+                    "rgb": "(250, 70, 22)",
+                    "hex": "#FA4616",
+                    "hsl": "(13, 96%, 53%)"
+                }
+            ],
+            "throwbackColors": null,
+            "logo": "",
+            "logoDescription": "The Detroit Tigers logo has navy and orange colors and a letter “D” object commonly referred to as the Old English D. The Detroit Tigers logo meaning symbolizes the initial of the team’s home city.",
+            "logoFont": "Collins Old English Regular"
+        },
+        {
+            "teamName": "Houston Astros",
+            "officialColors": [
+                {
+                    "colorName": "Navy",
+                    "rgb": "(0, 45, 98)",
+                    "hex": "#002D62",
+                    "hsl": "(212, 100%, 19%)"
+                },
+                {
+                    "colorName": "Orange",
+                    "rgb": "(235, 110, 31)",
+                    "hex": "#EB6E1F",
+                    "hsl": "(23, 84%, 52%)"
+                },
+                {
+                    "colorName": "Light Orange",
+                    "rgb": "(244, 145, 30)",
+                    "hex": "#F4911E",
+                    "hsl": "(32, 91%, 54%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "2000to2012": [
+                        {
+                            "colorName": "Brick",
+                            "rgb": "(154, 51, 36)",
+                            "hex": "#9A3324",
+                            "hsl": "(8, 62%, 37%)"
+                        },
+                        {
+                            "colorName": "Sand",
+                            "rgb": "(211, 188, 141)",
+                            "hex": "#D3BC8D",
+                            "hsl": "(40, 44%, 69%)"
+                        },
+                        {
+                            "colorName": "Black",
+                            "rgb": "(39, 37, 31)",
+                            "hex": "#27251F",
+                            "hsl": "(45, 11%, 14%)"
+                        },
+                        {
+                            "colorName": "Gray",
+                            "rgb": "(151, 153, 155)",
+                            "hex": "#97999B",
+                            "hsl": "(210, 2%, 60%)"
+                        }
+                    ],
+                    "1977to1993": [
+                        {
+                            "colorName": "Blue",
+                            "rgb": "(4, 30, 66)",
+                            "hex": "#041E42",
+                            "hsl": "(215, 89%, 14%)"
+                        },
+                        {
+                            "colorName": "Orange",
+                            "rgb": "(250, 70, 22)",
+                            "hex": "#FA4616",
+                            "hsl": "(13, 96%, 53%)"
+                        }
+                    ],
+                    "1975to1986": [
+                        {
+                            "colorName": "Blue",
+                            "rgb": "(4, 30, 66)",
+                            "hex": "#041E42",
+                            "hsl": "(215, 89%, 14%)"
+                        },
+                        {
+                            "colorName": "Red",
+                            "rgb": "(213, 0, 50)",
+                            "hex": "#D50032",
+                            "hsl": "(346, 100%, 42%)"
+                        },
+                        {
+                            "colorName": "Orange",
+                            "rgb": "(232, 119, 34)",
+                            "hex": "#E87722",
+                            "hsl": "(26, 81%, 52%)"
+                        },
+                        {
+                            "colorName": "Light Orange",
+                            "rgb": "(255, 130, 0)",
+                            "hex": "#FF8200",
+                            "hsl": "(31, 100%, 50%)"
+                        },
+                        {
+                            "colorName": "Yellow",
+                            "rgb": "(255, 205, 0)",
+                            "hex": "#FFCD00",
+                            "hsl": "(48, 100%, 50%)"
+                        }
+                    ]
+                }
+            ],
+            "logo": "placeholder",
+            "logoDescription": "The Houston Astros logo has navy and orange colors and a stylized letter 'H' object. The Houston Astros logo meaning symbolizes the initial of the team's home city and represents the team's identity.",
+            "logoFont": "Collins Old English Regular"
+        },
+        {
+            "teamName": "Kansas City Royals",
+            "officialColors": [
+                {
+                    "colorName": "Royal Blue",
+                    "rgb": "(0, 70, 135)",
+                    "hex": "#004687",
+                    "hsl": "(209, 100%, 26%)"
+                },
+                {
+                    "colorName": "Gold",
+                    "rgb": "(189, 155, 96)",
+                    "hex": "#BD9B60",
+                    "hsl": "(38, 41%, 56%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1993to2001": [
+                        {
+                            "colorName": "Royal Blue",
+                            "rgb": "(0, 20, 137)",
+                            "hex": "#001489",
+                            "hsl": "(231, 100%, 27%)"
+                        },
+                        {
+                            "colorName": "Gold",
+                            "rgb": "(192, 154, 91)",
+                            "hex": "#C09A5B",
+                            "hsl": "(37, 44%, 55%)"
+                        }
+                    ]
+                }
+            ],
+            "logo": "placeholder",
+            "logoDescription": "The Kansas City Royals logo has Royal blue and gold colors and a Royal blue shield object with initials KC written on it in white capital letters. Above the shield, there is a crown-like object in gold color. Under the shield stands the inscription ‘Royals’ in blue color. The Kansas City Royals logo meaning symbolizes the team name and the city it plays in.",
+            "logoFont": "Custom Kansas City Royals font"
+        },
+        {
+            "teamName": "Los Angeles Angels",
+            "officialColors": [
+                {
+                    "colorName": "Midnight Blue",
+                    "rgb": "(0, 50, 99)",
+                    "hex": "#003263",
+                    "hsl": "(210, 100%, 19%)"
+                },
+                {
+                    "colorName": "Red",
+                    "rgb": "(186, 0, 33)",
+                    "hex": "#BA0021",
+                    "hsl": "(349, 100%, 36%)"
+                },
+                {
+                    "colorName": "Maroon",
+                    "rgb": "(134, 38, 51)",
+                    "hex": "#862633",
+                    "hsl": "(352, 56%, 34%)"
+                },
+                {
+                    "colorName": "Silver",
+                    "rgb": "(196, 206, 212)",
+                    "hex": "#C4CED4",
+                    "hsl": "(203, 16%, 80%)"
+                },
+                {
+                    "colorName": "White",
+                    "rgb": "(255, 255, 255)",
+                    "hex": "#FFFFFF",
+                    "hsl": "(0, 0%, 100%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1997to2001": [
+                        {
+                            "colorName": "Anaheim Angels Navy",
+                            "rgb": "(19, 41, 75)",
+                            "hex": "#13294B",
+                            "hsl": "(216, 60%, 18%)"
+                        },
+                        {
+                            "colorName": "Anaheim Angels Periwinkle",
+                            "rgb": "(92, 136, 218)",
+                            "hex": "#5C88DA",
+                            "hsl": "(219, 63%, 61%)"
+                        },
+                        {
+                            "colorName": "Anaheim Angels Medium Blue",
+                            "rgb": "(108, 172, 228)",
+                            "hex": "#6CACE4",
+                            "hsl": "(208, 69%, 66%)"
+                        },
+                        {
+                            "colorName": "Anaheim Angels Light Blue",
+                            "rgb": "(171, 202, 233)",
+                            "hex": "#ABCAE9",
+                            "hsl": "(210, 58%, 79%)"
+                        },
+                        {
+                            "colorName": "Anaheim Angels Red",
+                            "rgb": "(218, 41, 28)",
+                            "hex": "#DA291C",
+                            "hsl": "(4, 77%, 48%)"
+                        },
+                        {
+                            "colorName": "Anaheim Angels Gold",
+                            "rgb": "(133, 113, 77)",
+                            "hex": "#85714D",
+                            "hsl": "(39, 27%, 41%)"
+                        },
+                        {
+                            "colorName": "Anaheim Angels Bronze",
+                            "rgb": "(139, 99, 75)",
+                            "hex": "#8B634B",
+                            "hsl": "(23, 30%, 42%)"
+                        }
+                    ]
+                },
+                {
+                    "1973to1985": [
+                        {
+                            "colorName": "Blue",
+                            "rgb": "(4, 28, 44)",
+                            "hex": "#041C2C",
+                            "hsl": "(204, 83%, 9%)"
+                        },
+                        {
+                            "colorName": "Red",
+                            "rgb": "(191, 13, 62)",
+                            "hex": "#BF0D3E",
+                            "hsl": "(343, 87%, 40%)"
+                        },
+                        {
+                            "colorName": "Yellow",
+                            "rgb": "(243, 208, 62)",
+                            "hex": "#F3D03E",
+                            "hsl": "(48, 88%, 60%)"
+                        }
+                    ]
+                }
+            ],
+            "logo": "placeholder",
+            "logoFont": "Quiet the Thief Thin",
+            "logoDescription": "The Los Angeles Angels logo has midnight blue, red, maroon, silver, and white colors with a halo object on top of a large red letter “A”. Both objects have a blue outline. The Los Angeles Angels logo meaning symbolizes the initial letter of the team’s name (Angels) while the halo object depicts an angel."
+        },
+        {
+            "teamName": "Los Angeles Dodgers",
+            "officialColors": [
+                {
+                    "colorName": "Dodger Blue",
+                    "rgb": "(0, 90, 156)",
+                    "hex": "#005A9C",
+                    "hsl": "(205, 100%, 31%)"
+                },
+                {
+                    "colorName": "Red",
+                    "rgb": "(239, 62, 66)",
+                    "hex": "#EF3E42",
+                    "hsl": "(359, 85%, 59%)"
+                },
+                {
+                    "colorName": "Silver",
+                    "rgb": "(191, 192, 191)",
+                    "hex": "#A5ACAF",
+                    "hsl": "(198, 6%, 67%)"
+                }
+            ],
+            "throwbackColors": null,
+            "logoDescription": "The Los Angeles Dodgers logo has Dodger blue, red, and silver colors and the team name written in a cursive font. Above the team name is a red baseball object. The Los Angeles Dodgers logo meaning symbolizes the team’s nickname and the sports that they play.",
+            "logoFont": "custom Los Angeles Dodgers typeface",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Miami Marlins",
+            "officialColors": [
+                {
+                    "colorName": "Miami Blue",
+                    "rgb": "(0, 163, 224)",
+                    "hex": "#00A3E0",
+                    "hsl": "(196, 100%, 44%)"
+                },
+                {
+                    "colorName": "Caliente Red",
+                    "rgb": "(239, 51, 64)",
+                    "hex": "#EF3340",
+                    "hsl": "(356, 85%, 57%)"
+                },
+                {
+                    "colorName": "Slate Gray",
+                    "rgb": "(65, 116, 141)",
+                    "hex": "#41748D",
+                    "hsl": "(200, 37%, 40%)"
+                },
+                {
+                    "colorName": "Midnight Black",
+                    "rgb": "(0, 0, 0)",
+                    "hex": "#000000",
+                    "hsl": "(0, 0%, 0%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "2017to2018": [
+                        {
+                            "colorName": "Red-Orange",
+                            "rgb": "(255, 102, 0)",
+                            "hex": "#FF6600",
+                            "hsl": "(24, 100%, 50%)"
+                        },
+                        {
+                            "colorName": "Ocean Blue",
+                            "rgb": "(0, 119, 200)",
+                            "hex": "#0077C8",
+                            "hsl": "(204, 100%, 39%)"
+                        },
+                        {
+                            "colorName": "Sunshine Yellow",
+                            "rgb": "(255, 209, 0)",
+                            "hex": "#FFD100",
+                            "hsl": "(49, 100%, 50%)"
+                        },
+                        {
+                            "colorName": "Energy Silver",
+                            "rgb": "(138, 141, 143)",
+                            "hex": "#8A8D8F",
+                            "hsl": "(204, 2%, 55%)"
+                        },
+                        {
+                            "colorName": "Nightclub Black",
+                            "rgb": "(0, 0, 0)",
+                            "hex": "#000000",
+                            "hsl": "(0, 0%, 0%)"
+                        },
+                        {
+                            "colorName": "White",
+                            "rgb": "(255, 255, 255)",
+                            "hex": "#FFFFFF",
+                            "hsl": "(0, 0%, 100%)"
+                        }
+                    ]
+                },
+                {
+                    "1993to2011": [
+                        {
+                            "colorName": "Teal",
+                            "rgb": "(0, 156, 166)",
+                            "hex": "#009CA6",
+                            "hsl": "(184, 100%, 33%)"
+                        },
+                        {
+                            "colorName": "Silver",
+                            "rgb": "(138, 141, 143)",
+                            "hex": "#8A8D8F",
+                            "hsl": "(204, 2%, 55%)"
+                        },
+                        {
+                            "colorName": "Orange",
+                            "rgb": "(250, 70, 22)",
+                            "hex": "#FA4616",
+                            "hsl": "(13, 96%, 53%)"
+                        },
+                        {
+                            "colorName": "Black",
+                            "rgb": "(39, 37, 31)",
+                            "hex": "#27251F",
+                            "hsl": "(45, 11%, 14%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Miami Marlins logo has Miami blue, Caliente red, slate gray, and midnight black colors and a marlin fish with its mouth open. On its right, there is a baseball object with red stitches. The club name is written over the marlin’s tail. The Miami Marlins logo meaning symbolizes the sports that the team plays, as well as a tribute to the past baseball teams that represented the state in the minor league under the same nickname: Marlins.",
+            "logoFont": "custom Miami Marlins typeface",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Milwaukee Brewers",
+            "officialColors": [
+                {
+                    "colorName": "Yellow",
+                    "rgb": "(255, 197, 47)",
+                    "hex": "#FFC52F",
+                    "hsl": "(43, 100%, 59%)"
+                },
+                {
+                    "colorName": "Navy Blue",
+                    "rgb": "(18, 40, 75)",
+                    "hex": "#12284B",
+                    "hsl": "(217, 61%, 18%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "2017to2018": [
+                        {
+                            "colorName": "Navy Blue",
+                            "rgb": "(19, 41, 75)",
+                            "hex": "#0A2351",
+                            "hsl": "(219, 78%, 18%)"
+                        },
+                        {
+                            "colorName": "Gold",
+                            "rgb": "(182, 146, 46)",
+                            "hex": "#B6922E",
+                            "hsl": "(44, 60%, 45%)"
+                        }
+                    ],
+                    "alt2017to2018": [
+                        {
+                            "colorName": "Navy Blue",
+                            "rgb": "(19, 41, 75)",
+                            "hex": "#0A2351",
+                            "hsl": "(219, 78%, 18%)"
+                        },
+                        {
+                            "colorName": "Yellow",
+                            "rgb": "(254, 209, 65)",
+                            "hex": "#FED141",
+                            "hsl": "(46, 99%, 63%)"
+                        }
+                    ]
+                },
+                {
+                    "2000to2017": [
+                        {
+                            "colorName": "Navy Blue",
+                            "rgb": "(19, 41, 75)",
+                            "hex": "#13294B",
+                            "hsl": "(216, 60%, 18%)"
+                        },
+                        {
+                            "colorName": "Metallic Gold",
+                            "rgb": "(133, 113, 77)",
+                            "hex": "#85714D",
+                            "hsl": "(39, 27%, 41%)"
+                        },
+                        {
+                            "colorName": "Brick",
+                            "rgb": "(124, 37, 41)",
+                            "hex": "#7C2529",
+                            "hsl": "(357, 54%, 32%)"
+                        }
+                    ],
+                    "retroLogo": [
+                        {
+                            "colorName": "Blue",
+                            "rgb": "(0, 70, 174)",
+                            "hex": "#0046AE",
+                            "hsl": "(216, 100%, 34%)"
+                        },
+                        {
+                            "colorName": "Yellow",
+                            "rgb": "(255, 212, 81)",
+                            "hex": "#FFD451",
+                            "hsl": "(45, 100%, 66%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Milwaukee Brewers logo has yellow and Navy blue colors and a circular emblem with a yellow outline, a navy background, and the team name written on it. At the center, there is a stylized blue and yellow baseball glove with letters ‘b’ and ‘m’ forming the palm and fingers. The glove also features a white and yellow baseball. The Milwaukee Brewers logo meaning symbolizes the team name as well as the sport it competes in.",
+            "logoFont": "custom MLB Milwaukee Brewers font",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Minnesota Twins",
+            "officialColors": [
+                {
+                    "colorName": "Twins Navy",
+                    "rgb": "(0, 43, 92)",
+                    "hex": "#002B5C",
+                    "hsl": "(212, 100%, 18%)"
+                },
+                {
+                    "colorName": "Scarlet Red",
+                    "rgb": "(211, 17, 69)",
+                    "hex": "#D31145",
+                    "hsl": "(344, 85%, 45%)"
+                },
+                {
+                    "colorName": "Kasota Gold",
+                    "rgb": "(185, 151, 91)",
+                    "hex": "#B9975B",
+                    "hsl": "(38, 40%, 54%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1987to2009": [
+                        {
+                            "colorName": "TWINS NAVY",
+                            "rgb": "(12, 35, 64)",
+                            "hex": "#0C2340",
+                            "hsl": "(213, 68%, 15%)"
+                        },
+                        {
+                            "colorName": "RED",
+                            "rgb": "(186, 12, 47)",
+                            "hex": "#BA0C2F",
+                            "hsl": "(348, 88%, 39%)"
+                        }
+                    ]
+                },
+                {
+                    "1961to1975": [
+                        {
+                            "colorName": "BLUE",
+                            "rgb": "(0, 154, 188)",
+                            "hex": "#009ABC",
+                            "hsl": "(191, 100%, 37%)"
+                        },
+                        {
+                            "colorName": "RED",
+                            "rgb": "(190, 15, 52)",
+                            "hex": "#BE0F34",
+                            "hsl": "(347, 85%, 40%)"
+                        },
+                        {
+                            "colorName": "WHITE",
+                            "rgb": "(255, 255, 255)",
+                            "hex": "#FFFFFF",
+                            "hsl": "(0, 0%, 100%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Minnesota Twins logo has Twins navy, scarlet red, and white colors and a baseball object. The Minnesota Twins logo meaning symbolizes a white and scarlet red baseball encircled in a thick Twins navy-colored outline with the Minnesota Twins name on it.",
+            "logoFont": "mix of MLB Minnesota Twins and a Simple Serif Font",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "New York Mets",
+            "officialColors": [
+                {
+                    "colorName": "Blue",
+                    "rgb": "(0, 45, 114)",
+                    "hex": "#002D72",
+                    "hsl": "(216, 100%, 22%)"
+                },
+                {
+                    "colorName": "Orange",
+                    "rgb": "(252, 89, 16)",
+                    "hex": "#FF5910",
+                    "hsl": "(18, 100%, 53%)"
+                }
+            ],
+            "throwbackColors": null,
+            "logoDescription": "The New York Mets logo has blue and orange colors and features an orange baseball object with the New York City skyline inside it and the team name written across the center. The New York Mets logo meaning symbolizes the team’s moniker as well as the identity of the city of New York (tall skyscrapers).",
+            "logoFont": "NY Mets",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "New York Yankees",
+            "officialColors": [
+                {
+                    "colorName": "Blue",
+                    "rgb": "(0, 48, 135)",
+                    "hex": "#003087",
+                    "hsl": "(219, 100%, 26%)"
+                },
+                {
+                    "colorName": "Red",
+                    "rgb": "(228, 0, 44)",
+                    "hex": "#E4002C",
+                    "hsl": "(348, 100%, 45%)"
+                },
+                {
+                    "colorName": "Uniform Navy",
+                    "rgb": "(12, 35, 64)",
+                    "hex": "#0C2340",
+                    "hsl": "(213, 68%, 15%)"
+                },
+                {
+                    "colorName": "Uniform Gray",
+                    "rgb": "(196, 206, 211)",
+                    "hex": "#C4CED3",
+                    "hsl": "(200, 15%, 80%)"
+                }
+            ],
+            "throwbackColors": null,
+            "logoDescription": "The New York Yankees logo has blue and red colors and features a baseball bat that is a part of the letter “K” in the word “Yankees”. On top of the bat is a top hat worn by Uncle Sam. A baseball with red stitches can also be seen on the logo. The New York Yankees logo meaning symbolizes the moniker of the team and how the team pays homage to its country.",
+            "logoFont": "custom New York Yankees typeface",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Oakland Athletics",
+            "officialColors": [
+                {
+                    "colorName": "Green",
+                    "rgb": "(0, 56, 49)",
+                    "hex": "#003831",
+                    "hsl": "(173, 100%, 11%)"
+                },
+                {
+                    "colorName": "Gold",
+                    "hex": "#EFB21E",
+                    "rgb": "(239, 178, 30)",
+                    "hsl": "(42, 87%, 53%)"
+                },
+                {
+                    "colorName": "Gray",
+                    "hex": "#A2AAAD",
+                    "rgb": "(162, 170, 173)",
+                    "hsl": "(196, 6%, 66%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1982to1992": [
+                        {
+                            "colorName": "Green",
+                            "hex": "#115740",
+                            "rgb": "(17, 87, 64)",
+                            "hsl": "(160, 67%, 20%)"
+                        },
+                        {
+                            "colorName": "Yellow",
+                            "hex": "#FFCD00",
+                            "rgb": "(255, 205, 0)",
+                            "hsl": "(48, 100%, 50%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Oakland Athletics logo has green, gold, and white colors and a circular emblem with a white center and a thick green outline. At the center you can see the inscription “A’s”, while the green outline features the full team name written in white caps. The Oakland Athletics logo meaning symbolizes the team’s full name as well as its nickname (A’s).",
+            "logoFont": "Gill Sans Bold Condensed and English Towne Medium font",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Philadelphia Phillies",
+            "officialColors": [
+                {
+                    "colorName": "Red",
+                    "hex": "#E81828",
+                    "rgb": "(232, 24, 40)",
+                    "hsl": "(355, 82%, 50%)"
+                },
+                {
+                    "colorName": "Blue",
+                    "hex": "#002D72",
+                    "rgb": "(0, 45, 114)",
+                    "hsl": "(216, 100%, 22%)"
+                },
+                {
+                    "colorName": "White",
+                    "hex": "#FFFFFF",
+                    "rgb": "(255, 255, 255)",
+                    "hsl": "(0, 0%, 100%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1992to2017": [
+                        {
+                            "colorName": "Red",
+                            "hex": "#E81828",
+                            "rgb": "(232, 24, 40)",
+                            "hsl": "(355, 82%, 50%)"
+                        },
+                        {
+                            "colorName": "Blue",
+                            "hex": "#284898",
+                            "rgb": "(40, 72, 152)",
+                            "hsl": "(223, 58%, 38%)"
+                        }
+                    ]
+                },
+                {
+                    "retro": [
+                        {
+                            "colorName": "Maroon",
+                            "hex": "#6F263D",
+                            "rgb": "(111, 38, 61)",
+                            "hsl": "(341, 49%, 29%)"
+                        },
+                        {
+                            "colorName": "Powder Blue",
+                            "hex": "#6BACE4",
+                            "rgb": "(107, 172, 228)",
+                            "hsl": "(208, 69%, 66%)"
+                        },
+                        {
+                            "colorName": "White",
+                            "hex": "#FFFFFF",
+                            "rgb": "(255, 255, 255)",
+                            "hsl": "(0, 0%, 100%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Philadelphia Phillies logo has red, blue, and white colors and a blue bell-shaped silhouette with the team name in front of it, written in red color with a thin white outline. The dots on the letters “i” are replaced with blue stars. The Philadelphia Phillies logo meaning symbolizes the team name as well as the Liberty Bell, the symbol of Philadelphia and American independence.",
+            "logoFont": "Scriptwurst",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Pittsburgh Pirates",
+            "officialColors": [
+                {
+                    "colorName": "Black",
+                    "hex": "#27251F",
+                    "rgb": "(39, 37, 31)",
+                    "hsl": "(45, 11%, 14%)"
+                },
+                {
+                    "colorName": "Gold",
+                    "hex": "#FDB827",
+                    "rgb": "(253, 184, 39)",
+                    "hsl": "(41, 98%, 57%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1997to2013": [
+                        {
+                            "colorName": "Black",
+                            "hex": "#27251F",
+                            "rgb": "(39, 37, 31)",
+                            "hsl": "(45, 11%, 14%)"
+                        },
+                        {
+                            "colorName": "Gold",
+                            "hex": "#FFC72C",
+                            "rgb": "(255, 199, 44)",
+                            "hsl": "(44, 100%, 59%)"
+                        },
+                        {
+                            "colorName": "Red",
+                            "hex": "#E4002B",
+                            "rgb": "(228, 0, 43)",
+                            "hsl": "(349, 100%, 45%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Pittsburgh Pirates logo has black and yellow colors and a letter P object. The Pittsburgh Pirates logo meaning symbolizes the letter P which stands for both Pittsburgh and Pirates.",
+            "logoFont": "MLB Pirates Regular",
+            "logo": ""
+        },
+        {
+            "teamName": "San Diego Padres",
+            "officialColors": [
+                {
+                    "colorName": "San Diego Padres Brown (Primary)",
+                    "hex": "#2F241D",
+                    "rgb": "(47, 36, 29)",
+                    "hsl": "(23, 24%, 15%)"
+                },
+                {
+                    "colorName": "San Diego Padres Gold (Secondary)",
+                    "hex": "#FFC425",
+                    "rgb": "(255, 196, 37)",
+                    "hsl": "(44, 100%, 57%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "2015to2019": [
+                        {
+                            "colorName": "San Diego Padres Blue (Primary)",
+                            "hex": "#002D62",
+                            "rgb": "(0, 45, 98)",
+                            "hsl": "(212, 100%, 19%)"
+                        },
+                        {
+                            "colorName": "Digital Camouflage Light Gray (Primary)",
+                            "hex": "#A2AAAD",
+                            "rgb": "(162, 170, 173)",
+                            "hsl": "(196, 6%, 66%)"
+                        },
+                        {
+                            "colorName": "San Diego Padres Yellow (Secondary)",
+                            "hex": "#FFC72C",
+                            "rgb": "(255, 199, 44)",
+                            "hsl": "(44, 100%, 59%)"
+                        },
+                        {
+                            "colorName": "San Diego Padres Brown (Secondary)",
+                            "hex": "#473729",
+                            "rgb": "(71, 55, 41)",
+                            "hsl": "(28, 27%, 22%)"
+                        }
+                    ]
+                },
+                {
+                    "1992to2003": [
+                        {
+                            "colorName": "BLUE",
+                            "hex": "#041E42",
+                            "rgb": "(4, 30, 66)",
+                            "hsl": "(215, 89%, 14%)"
+                        },
+                        {
+                            "colorName": "ORANGE",
+                            "hex": "#E35205",
+                            "rgb": "(227, 82, 5)",
+                            "hsl": "(21, 96%, 45%)"
+                        }
+                    ]
+                },
+                {
+                    "retro": [
+                        {
+                            "colorName": "BROWN",
+                            "hex": "#462425",
+                            "rgb": "(70, 36, 37)",
+                            "hsl": "(358, 32%, 21%)"
+                        },
+                        {
+                            "colorName": "ORANGE",
+                            "hex": "#E35625",
+                            "rgb": "(227, 86, 37)",
+                            "hsl": "(15, 77%, 52%)"
+                        },
+                        {
+                            "colorName": "GRAY",
+                            "hex": "#CEC6C0",
+                            "rgb": "(206, 198, 192)",
+                            "hsl": "(26, 13%, 78%)"
+                        }
+                    ]
+                },
+                {
+                    "1969to1984": [
+                        {
+                            "colorName": "BROWN",
+                            "hex": "#693F23",
+                            "rgb": "(105, 63, 34)",
+                            "hsl": "(24, 50%, 27%)"
+                        },
+                        {
+                            "colorName": "GOLDEN YELLOW",
+                            "hex": "#FFCD00",
+                            "rgb": "(255, 205, 5)",
+                            "hsl": "(48, 100%, 50%)"
+                        }
+                    ]
+                },
+                {
+                    "uniformLettering": [
+                        {
+                            "colorName": "ORANGE",
+                            "hex": "#E87722",
+                            "rgb": "(232, 119, 34)",
+                            "hsl": "(26, 81%, 52%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The San Diego Padres logo has San Diego Padres brown and San Diego Padres gold colors and interlocking “S” and “D” letters. The San Diego Padres logo meaning symbolizes the initials of the city that the team represents.",
+            "logoFont": "custom San Diego Padres typeface",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "San Francisco Giants",
+            "officialColors": [
+                {
+                    "colorName": "ORANGE",
+                    "hex": "#FD5A1E",
+                    "rgb": "(253, 90, 30)",
+                    "hsl": "(16, 98%, 55%)"
+                },
+                {
+                    "colorName": "BLACK",
+                    "hex": "#27251F",
+                    "rgb": "(39, 37, 31)",
+                    "hsl": "(45, 11%, 14%)"
+                },
+                {
+                    "colorName": "BEIGE",
+                    "hex": "#EFD19F",
+                    "rgb": "(239, 209, 159)",
+                    "hsl": "(37, 71%, 78%)"
+                },
+                {
+                    "colorName": "GOLD",
+                    "hex": "#AE8F6F",
+                    "rgb": "(174, 143, 111)",
+                    "hsl": "(30, 28%, 56%)"
+                }
+            ],
+            "throwbackColors": null,
+            "logoDescription": "The San Francisco Giants logo has orange, black, beige, and gold colors and the nickname of the team written in front of a baseball object with orange stitches. The San Francisco Giants logo meaning symbolizes the team’s nickname and the sport that they play.",
+            "logoFont": "MLB Giants",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Seattle Mariners",
+            "officialColors": [
+                {
+                    "colorName": "NAVY BLUE",
+                    "hex": "#0C2C56",
+                    "rgb": "(12, 44, 86)",
+                    "hsl": "(214, 76%, 19%)"
+                },
+                {
+                    "colorName": "NORTHWEST GREEN",
+                    "hex": "#005C5C",
+                    "rgb": "(0, 92, 92)",
+                    "hsl": "(180, 100%, 18%)"
+                },
+                {
+                    "colorName": "SILVER",
+                    "hex": "#C4CED4",
+                    "rgb": "(196, 206, 212)",
+                    "hsl": "(203, 16%, 80%)"
+                },
+                {
+                    "colorName": "RED",
+                    "hex": "#D50032",
+                    "rgb": "(213, 0, 50)",
+                    "hsl": "(346, 100%, 42%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "retro": [
+                        {
+                            "colorName": "BLUE",
+                            "hex": "#002878",
+                            "rgb": "(0, 40, 120)",
+                            "hsl": "(220, 100%, 24%)"
+                        },
+                        {
+                            "colorName": "YELLOW",
+                            "hex": "#FFCC00",
+                            "rgb": "(255, 204, 0)",
+                            "hsl": "(48, 100%, 50%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Seattle Mariners logo has navy blue, Northwest green, silver, and red colors and a compass and baseball objects inside a circular badge. The Seattle Mariners logo meaning symbolizes the visual representation of a symbol of the sea in relation to the team’s nickname.",
+            "logoFont": "MLB Mariners",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "St. Louis Cardinals",
+            "officialColors": [
+                {
+                    "colorName": "CARDINAL RED",
+                    "hex": "#C41E3A",
+                    "rgb": "(196, 30, 58)",
+                    "hsl": "(350, 73%, 44%)"
+                },
+                {
+                    "colorName": "NAVY",
+                    "hex": "#0C2340",
+                    "rgb": "(12, 35, 64)",
+                    "hsl": "(213, 68%, 15%)"
+                },
+                {
+                    "colorName": "YELLOW",
+                    "hex": "#FEDB00",
+                    "rgb": "(254, 219, 0)",
+                    "hsl": "(52, 100%, 50%)"
+                },
+                {
+                    "colorName": "WHITE",
+                    "hex": "#FFFFFF",
+                    "rgb": "(255, 255, 255)",
+                    "hsl": "(0, 0%, 100%)"
+                }
+            ],
+            "throwbackColors": null,
+            "logoDescription": "The St. Louis Cardinals logo has Cardinal red, navy, yellow, and white colors and features a red bird standing on a yellow baseball bat. Under it, stands the inscription ‘Cardinals’, written in cursive. The St. Louis Cardinals logo meaning symbolizes the team name, the sport of baseball, and the northern cardinal bird which was the inspiration for the team name.",
+            "logoFont": "custom MLB St. Louis Cardinals font",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Tampa Bay Rays",
+            "officialColors": [
+                {
+                    "colorName": "NAVY BLUE",
+                    "hex": "#092C5C",
+                    "rgb": "(9, 44, 92)",
+                    "hsl": "(215, 82%, 20%)"
+                },
+                {
+                    "colorName": "COLUMBIA BLUE",
+                    "hex": "#8FBCE6",
+                    "rgb": "(143, 188, 230)",
+                    "hsl": "(209, 64%, 73%)"
+                },
+                {
+                    "colorName": "YELLOW",
+                    "hex": "#F5D130",
+                    "rgb": "(245, 209, 48)",
+                    "hsl": "(49, 91%, 57%)"
+                },
+                {
+                    "colorName": "WHITE",
+                    "hex": "#FFFFFF",
+                    "rgb": "(255, 255, 255)",
+                    "hsl": "(0, 0%, 100%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "retro": [
+                        {
+                            "colorName": "BLUE",
+                            "hex": "#002B73",
+                            "rgb": "(0, 43, 115)",
+                            "hsl": "(218, 100%, 23%)"
+                        },
+                        {
+                            "colorName": "GREEN",
+                            "hex": "#004637",
+                            "rgb": "(0, 70, 55)",
+                            "hsl": "(167, 100%, 14%)"
+                        },
+                        {
+                            "colorName": "BLACK",
+                            "hex": "#000000",
+                            "rgb": "(0, 0, 0)",
+                            "hsl": "(0, 0%, 0%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Tampa Bay Rays logo has navy blue, Columbia blue, yellow, and white colors and an all-caps lettering of the word “Rays,” with a bright yellow star on the letter R. The Tampa Bay Rays logo meaning symbolizes the nickname that the team goes by.",
+            "logoFont": "custom Tampa Bay Rays typeface",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Texas Rangers",
+            "officialColors": [
+                {
+                    "colorName": "BLUE",
+                    "hex": "#003278",
+                    "rgb": "(0, 50, 120)",
+                    "hsl": "(215, 100%, 24%)"
+                },
+                {
+                    "colorName": "RED",
+                    "hex": "#C0111F",
+                    "rgb": "(192, 17, 31)",
+                    "hsl": "(355, 84%, 41%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1994to2002": [
+                        {
+                            "colorName": "BLUE",
+                            "hex": "#002D72",
+                            "rgb": "(0, 45, 114)",
+                            "hsl": "(216, 100%, 22%)"
+                        },
+                        {
+                            "colorName": "RED",
+                            "hex": "#BA0C2F",
+                            "rgb": "(186, 12, 47)",
+                            "hsl": "(348, 88%, 39%)"
+                        },
+                        {
+                            "colorName": "DARK GRAY",
+                            "hex": "#857874",
+                            "hsl": "(14, 7%, 49%)"
+                        },
+                        {
+                            "colorName": "LIGHT GRAY",
+                            "hex": "#BFB8AF",
+                            "rgb": "(191, 184, 175)",
+                            "hsl": "(34, 11%, 72%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Texas Rangers logo has blue and red colors and a white and blue baseball object with a thick red and blue outline with the club’s name and two stars on it. The Texas Rangers logo meaning symbolizes the sport of baseball as well as the state of Texas thanks to the matching colors.",
+            "logoFont": "MLB Texas Rangers",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Toronto Blue Jays",
+            "officialColors": [
+                {
+                    "colorName": "BLUE",
+                    "hex": "#134A8E",
+                    "rgb": "(19, 74, 142)",
+                    "hsl": "(213, 76%, 32%)"
+                },
+                {
+                    "colorName": "NAVY BLUE",
+                    "hex": "#1D2D5C",
+                    "rgb": "(29, 45, 92)",
+                    "hsl": "(225, 52%, 24%)"
+                },
+                {
+                    "colorName": "RED",
+                    "hex": "#E8291C",
+                    "rgb": "(232, 41, 28)",
+                    "hsl": "(4, 82%, 51%)"
+                }
+            ],
+            "throwbackColors": [
+                {
+                    "1997to2002": [
+                        {
+                            "colorName": "LIGHT BLUE",
+                            "hex": "#006BA6",
+                            "rgb": "(0, 107, 166)",
+                            "hsl": "(201, 100%, 33%)"
+                        },
+                        {
+                            "colorName": "DARK BLUE",
+                            "hex": "#002F6C",
+                            "rgb": "(0, 47, 108)",
+                            "hsl": "(214, 100%, 21%)"
+                        },
+                        {
+                            "colorName": "RED",
+                            "hex": "#DA291C",
+                            "rgb": "(218, 41, 28)",
+                            "hsl": "(4, 77%, 48%)"
+                        },
+                        {
+                            "colorName": "COOL GRAY",
+                            "hex": "#B1B3B3",
+                            "rgb": "(177, 179, 179)",
+                            "hsl": "(180, 1%, 70%)"
+                        }
+                    ]
+                },
+                {
+                    "1977to1996": [
+                        {
+                            "colorName": "TURQUOISE",
+                            "hex": "#006BA6",
+                            "rgb": "(0, 107, 166)",
+                            "hsl": "(201, 100%, 33%)"
+                        },
+                        {
+                            "colorName": "ROYAL BLUE",
+                            "hex": "#002F6C",
+                            "rgb": "(0, 47, 108)",
+                            "hsl": "(214, 100%, 21%)"
+                        },
+                        {
+                            "colorName": "RED",
+                            "hex": "#DA291C",
+                            "rgb": "(218, 41, 28)",
+                            "hsl": "(4, 77%, 48%)"
+                        }
+                    ]
+                }
+            ],
+            "logoDescription": "The Toronto Blue Jays logo has blue, navy blue, and red colors and the side profile of a blue jay with a maple leaf on its right. Around it is a large circle with a red baseball and the team name. The Toronto Blue Jays logo meaning symbolizes the nickname of the team and the national symbol of Canada, the maple leaf.",
+            "logoFont": "custom Toronto Blue Jays typeface",
+            "logo": "placehold"
+        },
+        {
+            "teamName": "Washington Nationals",
+            "officialColors": [
+                {
+                    "colorName": "RED",
+                    "hex": "#AB0003",
+                    "rgb": "(171, 0, 3)",
+                    "hsl": "(359, 100%, 34%)"
+                },
+                {
+                    "colorName": "NAVY BLUE",
+                    "hex": "#14225A",
+                    "rgb": "(20, 34, 90)",
+                    "hsl": "(228, 64%, 22%)"
+                },
+                {
+                    "colorName": "WHITE",
+                    "hex": "#FFFFFF",
+                    "rgb": "(255, 255, 255)",
+                    "hsl": "(0, 0%, 100%)"
+                }
+            ],
+            "throwbackColors": null,
+            "logoDescription": "The Washington Nationals logo has red, navy blue, and white colors and a stylized letter W object on a white background surrounded by a thick red and navy blue circle with the club name on it. The Washington Nationals logo meaning symbolizes the city’s initial as well as the club’s full name.",
+            "logoFont": "MLB Washington Nationals",
+            "logo": "placehold"
+        }
+    ]
+}

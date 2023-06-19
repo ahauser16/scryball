@@ -1,5 +1,5 @@
 import React from "react";
-import GlobalStyle from "./styles/GlobalStyle";
+import GlobalStyle from "./styles/GlobalStyle.js";
 import {
   Route,
   createBrowserRouter,
@@ -8,19 +8,20 @@ import {
 } from "react-router-dom";
 
 //pages
-import { NoMatch } from "./pages/NoMatch";
-import { Browse } from "./pages/Browse";
-import { About } from "./pages/About";
-import { Home } from "./pages/Home";
-import Faq from "./components/Faq";
-import Contact from "./components/Contact";
-import BaseSet, { BaseSetLoader } from "./pages/BaseSet";
-import BaseSetDetails, {BaseSetDetailsLoader} from "./pages/BaseSetDetails";
+import { Home } from "./pages/Home.js";
+import { About } from "./pages/About.js";
+import { Browse } from "./pages/Browse.js";
+import { Settings } from "./pages/Settings.js";
+import Faq from "./components/Faq.js";
+import Contact from "./components/Contact.js";
+import { NoMatch } from "./pages/NoMatch.js";
+import BaseSet, { baseSetLoader } from "./pages/BaseSet.js";
+import CardDetails, { cardDetailsLoader } from "./pages/CardDetails.js";
 
 //layouts
-import { LayoutNavigation } from "./components/LayoutNavigation";
-import HelpLayout from "./components/HelpLayout";
-import BaseSetLayout from "./components/BaseSetLayout";
+import { LayoutNavigation } from "./components/LayoutNavigation.js";
+import HelpLayout from "./components/HelpLayout.js";
+import BaseSetLayout from "./components/BaseSetLayout.js";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -34,24 +35,19 @@ const router = createBrowserRouter(
         <Route path="contact" element={<Contact />} />
       </Route>
 
-      <Route path="baseset" element={<BaseSetLayout />} >
-        <Route 
-        index 
-        element={<BaseSet />} 
-        loader={BaseSetLoader} 
-        />
-        <Route path=":id" element={<BaseSetDetails />}
+      <Route path="baseset" element={<BaseSetLayout />}>
+        <Route index element={<BaseSet />} loader={baseSetLoader} />
+
+        <Route
+          path=":pathid"
+          element={<CardDetails />}
+          loader={() => cardDetailsLoader}
         />
       </Route>
+      <Route path="settings" element={<Settings />} />
 
-      {/* <Route 
-        path="id" 
-        element={ <BaseSet />}
-        loader={BaseSetLoader}
-      /> */}
 
       <Route path="*" element={<NoMatch />} />
-
     </Route>
   )
 );

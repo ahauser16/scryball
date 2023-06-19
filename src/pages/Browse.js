@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
-import { RegularList } from "../components/RegularList";
-import { people } from "../data/people";
-import { SmallPersonListItem } from "../components/people/SmallPersonListItem";
-import { LargePersonListItem } from "../components/people/LargePersonListItem";
+import { RegularList } from "../components/RegularList.js";
+import { people } from "../data/people.js";
+import { SmallPersonListItem } from "../components/people/SmallPersonListItem.js";
+import { LargePersonListItem } from "../components/people/LargePersonListItem.js";
 
 const ListContainer = styled.div`
   background-color: cyan;

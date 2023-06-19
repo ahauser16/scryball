@@ -40,7 +40,10 @@ export const LayoutNavigation = () => {
             <NavLink to="/browse">Browse</NavLink>
           </Navbar.Item>
           <Navbar.Item>
-            <NavLink to="/baseSet">2022 Topps Series 1 Baseball Base Set</NavLink>
+            <NavLink to="/baseset">2022 Topps Series 1 Baseball Base Set</NavLink>
+          </Navbar.Item>
+          <Navbar.Item>
+            <NavLink to="/settings">Settings</NavLink>
           </Navbar.Item>
           <Navbar.Item>
             <NavLink to="/help">Help</NavLink>
@@ -72,6 +75,7 @@ const Navbar = {
     justify-content: space-between;
     align-items: center;
     background-color: white;
+    z-index: 100;
     @media only screen and (max-width: 40rem) {
       position: fixed;
       width: 100vw;
