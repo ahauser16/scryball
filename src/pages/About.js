@@ -14,7 +14,7 @@ const RightHandComponent = ({ message }) => {
   return (
     <>
       <h1 style={{ backgroundColor: "red" }}>{message}</h1>
-      <TeamName>Team Name Color Test</TeamName>
+      <PlayerName>ARTHUR JOHN</PlayerName>
       <CollegeBlockTest2>32</CollegeBlockTest2>
       <SwatchContainer>
         <TeamColorPrimary />
@@ -42,7 +42,7 @@ const CollegeBlockTest = styled.h1`
   color: red;
   padding: 1rem;
   font-family: "CollegeBlock", sans-serif;
-  font-size: 10em;
+  font-size: 20em;
   text-shadow: 0.001em 0.001em 0em #f3faea, -0.001em -0.001em 0em #f3faea,
     0.001em -0.001em 0em #f3faea, -0.001em 0.001em 0em #f3faea,
     0.002em 0.002em 0em #f4dfce, -0.002em -0.002em 0em #f4dfce,
@@ -56,34 +56,54 @@ const CollegeBlockTest = styled.h1`
 `;
 
 const CollegeBlockTest2 = styled.h1`
-  color: var(--jersey-number-text);
+  color: var(--jersey-num);
   padding: 1rem;
   font-family: "CollegeBlock", sans-serif;
-  font-size: 10em;
-  text-shadow: 0.01em 0.01em 0em var(--jersey-number-border-layer-5),
-    -0.01em -0.01em 0em var(--jersey-number-border-layer-5),
-    0.01em -0.01em 0em var(--jersey-number-border-layer-5),
-    -0.01em 0.01em 0em var(--jersey-number-border-layer-5),
-    0.012em 0.012em 0em var(--jersey-number-border-layer-4),
-    -0.012em -0.012em 0em var(--jersey-number-border-layer-4),
-    0.012em -0.012em 0em var(--jersey-number-border-layer-4),
-    -0.012em 0.012em 0em var(--jersey-number-border-layer-4),
-    0.0125em 0.0125em 0em var(--jersey-number-border-layer-3),
-    -0.0125em -0.0125em 0em var(--jersey-number-border-layer-3),
-    0.0125em -0.0125em 0em var(--jersey-number-border-layer-3),
-    -0.0125em 0.0125em 0em var(--jersey-number-border-layer-3),
-    0.0127em 0.0127em 0em var(--jersey-number-border-layer-2),
-    -0.0127em -0.0127em 0em var(--jersey-number-border-layer-2),
-    0.0127em -0.0127em 0em var(--jersey-number-border-layer-2),
-    -0.0127em 0.0127em 0em var(--jersey-number-border-layer-2),
-    0.0128em 0.0128em 0em var(--jersey-number-border-layer-1),
-    -0.0128em -0.0128em 0em var(--jersey-number-border-layer-1),
-    0.0128em -0.0128em 0em var(--jersey-number-border-layer-1),
-    -0.0128em 0.0128em 0em var(--jersey-number-border-layer-1);
+  font-size: 15em;
+  text-shadow: 0.01em 0.01em 0em var(--jersey-num-border-5),
+    -0.01em -0.01em 0em var(--jersey-num-border-5),
+    0.01em -0.01em 0em var(--jersey-num-border-5),
+    -0.01em 0.01em 0em var(--jersey-num-border-5),
+    0.012em 0.012em 0em var(--jersey-num-border-4),
+    -0.012em -0.012em 0em var(--jersey-num-border-4),
+    0.012em -0.012em 0em var(--jersey-num-border-4),
+    -0.012em 0.012em 0em var(--jersey-num-border-4),
+    0.0125em 0.0125em 0em var(--jersey-num-border-3),
+    -0.0125em -0.0125em 0em var(--jersey-num-border-3),
+    0.0125em -0.0125em 0em var(--jersey-num-border-3),
+    -0.0125em 0.0125em 0em var(--jersey-num-border-3),
+    0.0127em 0.0127em 0em var(--jersey-num-border-2),
+    -0.0127em -0.0127em 0em var(--jersey-num-border-2),
+    0.0127em -0.0127em 0em var(--jersey-num-border-2),
+    -0.0127em 0.0127em 0em var(--jersey-num-border-2),
+    0.0128em 0.0128em 0em var(--jersey-num-border-1),
+    -0.0128em -0.0128em 0em var(--jersey-num-border-1),
+    0.0128em -0.0128em 0em var(--jersey-num-border-1),
+    -0.0128em 0.0128em 0em var(--jersey-num-border-1);
 `;
 
-const TeamName = styled.h1`
-  color: var(--jersey-number-border-layer-5);
+const PlayerName = styled.h1`
+  color: var(--jersey-name);
+  padding: 1rem;
+  font-family: "Anton", sans-serif;
+  font-size: 10em;
+  text-shadow: 
+    0.01em 0.01em 0em var(--jersey-name-layer-4),
+    -0.01em -0.01em 0em var(--jersey-name-layer-4),
+    0.01em -0.01em 0em var(--jersey-name-layer-4),
+    -0.01em 0.01em 0em var(--jersey-name-layer-4),
+    0.012em 0.012em 0em var(--jersey-name-layer-3),
+    -0.012em -0.012em 0em var(--jersey-name-layer-3),
+    0.012em -0.012em 0em var(--jersey-name-layer-3),
+    -0.012em 0.012em 0em var(--jersey-name-layer-3),
+    0.0125em 0.0125em 0em var(--jersey-name-layer-2),
+    -0.0125em -0.0125em 0em var(--jersey-name-layer-2),
+    0.0125em -0.0125em 0em var(--jersey-name-layer-2),
+    -0.0125em 0.0125em 0em var(--jersey-name-layer-2),
+    0.0127em 0.0127em 0em var(--jersey-name-layer-1),
+    -0.0127em -0.0127em 0em var(--jersey-name-layer-1),
+    0.0127em -0.0127em 0em var(--jersey-name-layer-1),
+    -0.0127em 0.0127em 0em var(--jersey-name-layer-1);
 `;
 
 const TeamColorPrimary = styled.div`

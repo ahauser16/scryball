@@ -2,32 +2,6 @@
     "mlbColors": [
         {
             "teamName": "Arizona Diamondbacks",
-            "tableColors": {
-                "tableHeaderFooter": {
-                    "backgroundColor": {
-                        "colorName": "Sedona Red",
-                        "rgb": "(167, 25, 48)",
-                        "hex": "#A71930",
-                        "hsl": "(350, 74, 38)"
-                    },
-                    "color": {
-                        "colorName": "Vivid Burgundy",
-                        "rgb": "(245, 188, 198)",
-                        "hex": "#f5bcc6",
-                        "hsl": "(350, 74, 85)",
-                        "wcagPartner": "Sedona Red",
-                        "wcagPartnerContrastRatio": "4.5:1"
-                    }
-                },
-                "tableRow": {
-                    "backgroundColor": "rgb(227, 212, 173)",
-                    "color": "rgb(0, 0, 0)"
-                },
-                "tableRowAlt": {
-                    "backgroundColor": "rgb(255, 255, 255)",
-                    "color": "rgb(0, 0, 0)"
-                }
-            },
             "officialColors": [
                 {
                     "colorName": "Sedona Red",
@@ -60,6 +34,263 @@
                     "hsl": "(0, 0, 100)"
                 }
             ],
+            "tableColors": {
+                "tableHeaderFooter": {
+                    "backgroundColor": {
+                        "colorName": "Sedona Red",
+                        "rgb": "(167, 25, 48)",
+                        "hex": "#A71930",
+                        "hsl": "(350, 74, 38)"
+                    },
+                    "textColor": {
+                        "colorName": "Cherry Blossom",
+                        "rgb": "(245, 188, 198)",
+                        "hex": "#f5bcc6",
+                        "hsl": "(350, 74, 85)",
+                        "wcagPartner": "Sedona Red",
+                        "wcagPartnerContrastRatio": "4.5:1"
+                    }
+                },
+                "tableRowA": {
+                    "backgroundColor": {
+                        "colorName": "Cherry Blossom",
+                        "rgb": "(245, 188, 198)",
+                        "hex": "#f5bcc6",
+                        "hsl": "(350, 74, 85)",
+                        "wcagPartner": "Sedona Red",
+                        "wcagPartnerContrastRatio": "4.5:1"
+                    },
+                    "textColor": {
+                        "colorName": "Persian Plum",
+                        "rgb": "(106, 16, 31)",
+                        "hex": "#6A101F",
+                        "hsl": "(350, 74, 24)"
+                    }
+                },
+                "tableRowB": {
+                    "backgroundColor": {
+                        "textColor": "Pink Sherbet",
+                        "rgb": "(238, 144, 160)",
+                        "hex": "#EE90A0",
+                        "hsl": "(350, 74, 75)"
+                    },
+                    "textColor": {
+                        "colorName": "Persian Plum",
+                        "rgb": "(106, 16, 31)",
+                        "hex": "#6A101F",
+                        "hsl": "(350, 74, 24)"
+                    }
+                }
+            },
+            "uniformColorSchemes": {
+                "homeTeam": {
+                    "jerseyNumber": [
+                        {
+                            "textColor": "true",
+                            "colorName": "Dark Jungle Green",
+                            "rgb": "(30,30,30)",
+                            "hex": "#1e1e1e",
+                            "hsl": "(0, 0, 12)"
+                        },
+                        {
+                            "layerNumber": "1",
+                            "colorName": "HoneyDew",
+                            "rgb": "(243, 250, 234)",
+                            "hex": "#f3faea",
+                            "hsl": "(86.3, 61.5, 94.9)"
+                        },
+                        {
+                            "layerNumber": "2",
+                            "colorName": "AntiqueWhite",
+                            "rgb": "(244, 223, 206)",
+                            "hex": "#f4dfce",
+                            "hsl": "(26.8, 63.3, 88.2)"
+                        },
+                        {
+                            "layerNumber": "3",
+                            "colorName": "DarkSalmon",
+                            "rgb": "(212, 156, 143)",
+                            "hex": "#d49c8f",
+                            "hsl": "(11.3, 44.5, 69.6)"
+                        },
+                        {
+                            "layerNumber": "4",
+                            "colorName": "Brown",
+                            "rgb": "rgb(135, 27, 50)",
+                            "hex": "#871b32",
+                            "hsl": "hsl(347.2, 66.7, 31.8)"
+                        },
+                        {
+                            "layerNumber": "5",
+                            "colorName": "SedonaRed",
+                            "rgb": "rgb(167, 25, 48)",
+                            "hex": "#A71930",
+                            "hsl": "hsl(350, 74, 38)"
+                        }
+                    ],
+                    "jerseyPlayerName": [
+                        {
+                            "textColor": "true",
+                            "colorName": "SedonaRed",
+                            "rgb": "rgb(167, 25, 48)",
+                            "hex": "#A71930",
+                            "hsl": "hsl(350, 74, 38)"
+                        },
+                        {
+                            "layerNumber": "1",
+                            "colorName": "AntiqueWhite",
+                            "rgb": "(244, 223, 206)",
+                            "hex": "#f4dfce",
+                            "hsl": "(26.8, 63.3, 88.2)"
+                        },
+                        {
+                            "layerNumber": "2",
+                            "colorName": "DarkGray",
+                            "rgb": "(168, 176, 186)",
+                            "hex": "#a8b0ba",
+                            "hsl": "(213, 12, 69)"
+                        },
+                        {
+                            "layerNumber": "3",
+                            "colorName": "Brown",
+                            "rgb": "rgb(135, 27, 50)",
+                            "hex": "#871b32",
+                            "hsl": "hsl(347.2, 66.7, 31.8)"
+                        },
+                        {
+                            "layerNumber": "4",
+                            "colorName": "Dark Jungle Green",
+                            "rgb": "(30,30,30)",
+                            "hex": "#1e1e1e",
+                            "hsl": "(0, 0, 12)"
+                        }
+                    ]
+                },
+                "homeTeamTeal": {
+                    "jerseyNumber": [
+                        {
+                            "textColor": "true",
+                            "colorName": "Dark Jungle Green",
+                            "rgb": "(30,30,30)",
+                            "hex": "#1e1e1e",
+                            "hsl": "(0, 0, 12)"
+                        },
+                        {
+                            "layerNumber": "1",
+                            "colorName": "HoneyDew",
+                            "rgb": "(243, 250, 234)",
+                            "hex": "#f3faea",
+                            "hsl": "(86.3, 61.5, 94.9)"
+                        },
+                        {
+                            "layerNumber": "2",
+                            "colorName": "AntiqueWhite",
+                            "rgb": "(244, 223, 206)",
+                            "hex": "#f4dfce",
+                            "hsl": "(26.8, 63.3, 88.2)"
+                        },
+                        {
+                            "layerNumber": "3",
+                            "colorName": "DarkSalmon",
+                            "rgb": "(212, 156, 143)",
+                            "hex": "#d49c8f",
+                            "hsl": "(11.3, 44.5, 69.6)"
+                        },
+                        {
+                            "layerNumber": "4",
+                            "colorName": "Brown",
+                            "rgb": "rgb(135, 27, 50)",
+                            "hex": "#871b32",
+                            "hsl": "hsl(347.2, 66.7, 31.8)"
+                        },
+                        {
+                            "layerNumber": "5",
+                            "colorName": "SedonaRed",
+                            "rgb": "rgb(167, 25, 48)",
+                            "hex": "#A71930",
+                            "hsl": "hsl(350, 74, 38)"
+                        }
+                    ],
+                    "jerseyPlayerName": [
+                        {
+                            "textColor": "true",
+                            "colorName": "Teal",
+                            "rgb": "(48, 206, 216)",
+                            "hex": "#30CED8",
+                            "hsl": "(183, 77, 84)"
+                        },
+                        {
+                            "layerNumber": "2",
+                            "colorName": "AntiqueWhite",
+                            "rgb": "(244, 223, 206)",
+                            "hex": "#f4dfce",
+                            "hsl": "(26.8, 63.3, 88.2)"
+                        },
+                        {
+                            "layerNumber": "3",
+                            "colorName": "DarkGray",
+                            "rgb": "(168, 176, 186)",
+                            "hex": "#a8b0ba",
+                            "hsl": "(213, 12, 69)"
+                        }
+                    ]
+                },
+                "SedonaRedUniform": {
+                    "jerseyNumber": [
+                        {
+                            "textColor": "true",
+                            "colorName": "Dark Jungle Green",
+                            "rgb": "(30,30,30)",
+                            "hex": "#1e1e1e",
+                            "hsl": "(0, 0, 12)"
+                        },
+                        {
+                            "layerNumber": "1",
+                            "colorName": "DarkSalmon",
+                            "rgb": "(212, 156, 143)",
+                            "hex": "#d49c8f",
+                            "hsl": "(11.3, 44.5, 69.6)"
+                        },
+                        {
+                            "layerNumber": "2",
+                            "colorName": "AntiqueWhite",
+                            "rgb": "(244, 223, 206)",
+                            "hex": "#f4dfce",
+                            "hsl": "(26.8, 63.3, 88.2)"
+                        },
+                        {
+                            "layerNumber": "3",
+                            "colorName": "DarkGray",
+                            "rgb": "(168, 176, 186)",
+                            "hex": "#a8b0ba",
+                            "hsl": "(213, 12, 69)"
+                        }
+                    ],
+                    "jerseyPlayerName": [
+                        {
+                            "textColor": "true",
+                            "colorName": "Sonoran Sand",
+                            "rgb": "(227, 212, 173)",
+                            "hex": "#E3D4AD",
+                            "hsl": "(42, 23, 89)"
+                        },
+                        {
+                            "layerNumber": "2",
+                            "colorName": "AntiqueWhite",
+                            "rgb": "(244, 223, 206)",
+                            "hex": "#f4dfce",
+                            "hsl": "(26.8, 63.3, 88.2)"
+                        },
+                        {
+                            "layerNumber": "3",
+                            "colorName": "DarkGray",
+                            "rgb": "(168, 176, 186)",
+                            "hex": "#a8b0ba",
+                            "hsl": "(213, 12, 69)"
+                        }
+                    ]
+                }
+            },
             "throwbackColors": [
                 {
                     "1998to2006": [
@@ -98,51 +329,7 @@
             ],
             "logo": "https://example.com/diamondbacks_logo.png",
             "logoDescription": "The Arizona Diamondbacks logo has Sedona red, Sonoran sand, black, teal, and white colors and a stylized letter A object. On its left side, the letter features diamond shapes similar to those found on a snake’s back, while the crossbar is replaced by a snake’s tongue. The Arizona Diamondbacks logo meaning symbolizes the initial of the state of Arizona and pays tribute to the western diamondback rattlesnake, used as an inspiration for the team name.",
-            "logoFont": "MLB Diamondbacks",
-            "playerNumberScheme": [
-                {
-                    "textColor": "true",
-                    "colorName": "Dark Jungle Green",
-                    "rgb": "(30,30,30)",
-                    "hex": "#1e1e1e",
-                    "hsl": "(0, 0%, 12%)"
-                },
-                {
-                    "layerNumber": "1",
-                    "colorName": "HoneyDew",
-                    "rgb": "(243, 250, 234)",
-                    "hex": "#f3faea",
-                    "hsl": "(86.3, 61.5, 94.9)"
-                },
-                {
-                    "layerNumber": "2",
-                    "colorName": "AntiqueWhite",
-                    "rgb": "(244, 223, 206)",
-                    "hex": "#f4dfce",
-                    "hsl": "(26.8, 63.3, 88.2)"
-                },
-                {
-                    "layerNumber": "3",
-                    "colorName": "DarkSalmon",
-                    "rgb": "(212, 156, 143)",
-                    "hex": "#d49c8f",
-                    "hsl": "(11.3, 44.5, 69.6)"
-                },
-                {
-                    "layerNumber": "4",
-                    "colorName": "Brown",
-                    "rgb": "rgb(135, 27, 50)",
-                    "hex": "#871b32",
-                    "hsl": "hsl(347.2, 66.7, 31.8)"
-                },
-                {
-                    "layerNumber": "5",
-                    "colorName": "SedonaRed",
-                    "rgb": "rgb(167, 25, 48)",
-                    "hex": "#A71930",
-                    "hsl": "hsl(350, 74%, 38%)"
-                }
-            ]
+            "logoFont": "MLB Diamondbacks"
         },
         {
             "teamName": "Atlanta Braves",
